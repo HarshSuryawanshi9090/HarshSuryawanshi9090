@@ -15,7 +15,7 @@ def main(def_args=sys.argv[1:]):
     repository = args.repository
     user_name = args.user_name
     user_email = args.user_email
-    if repository is not None:
+    if repository is not None and not args.current_repo:
         start = repository.rfind('/') + 1
         end = repository.rfind('.')
         directory = repository[start:end]
@@ -27,9 +27,11 @@ def main(def_args=sys.argv[1:]):
     days_after = args.days_after
     if days_after < 0:
         sys.exit('days_after must not be negative')
-    os.mkdir(directory)
-    os.chdir(directory)
-    run(['git', 'init', '-b', 'main'])
+    
+    if not args.current_repo:
+        os.mkdir(directory)
+        os.chdir(directory)
+        run(['git', 'init', '-b', 'main'])
 
     if user_name is not None:
         run(['git', 'config', 'user.name', user_name])
@@ -46,7 +48,7 @@ def main(def_args=sys.argv[1:]):
                                 for m in range(contributions_per_day(args))):
                 contribute(commit_time)
 
-    if repository is not None:
+    if repository is not None and not args.current_repo:
         run(['git', 'remote', 'add', 'origin', repository])
         run(['git', 'branch', '-M', 'main'])
         run(['git', 'push', '-u', 'origin', 'main'])
@@ -56,7 +58,7 @@ def main(def_args=sys.argv[1:]):
 
 
 def contribute(date):
-    with open(os.path.join(os.getcwd(), 'README.md'), 'a') as file:
+    with open(os.path.join(os.getcwd(), 'contributions.txt'), 'a') as file:
         file.write(message(date) + '\n\n')
     run(['git', 'add', '.'])
     run(['git', 'commit', '-m', '"%s"' % message(date),
@@ -82,6 +84,9 @@ def contributions_per_day(args):
 
 def arguments(argsval):
     parser = argparse.ArgumentParser()
+    parser.add_argument('-cr', '--current_repo',
+                        required=False, action='store_true', default=False,
+                        help="""commit directly to the current repository without creating a new one""")
     parser.add_argument('-nw', '--no_weekends',
                         required=False, action='store_true', default=False,
                         help="""do not commit on weekends""")
