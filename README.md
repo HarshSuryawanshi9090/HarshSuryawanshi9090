@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="github_profile_banner.png" width="100%" alt="Harsh Suryawanshi Banner" />
-</div>
-
-<br/>
-
-<div align="center">
   <h3>⚡ Welcome to My Digital Laboratory! ⚡</h3>
   <p>
     <strong>Final Year B.Tech Student in Artificial Intelligence & Data Science</strong><br/>
