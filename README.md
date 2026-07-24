@@ -153,15 +153,6 @@ I am a passionate developer focused on the intersection of **Artificial Intellig
 
 ---
 
-### 📈 GitHub Contribution Activity Generator
-
-This repository includes a script to backfill and customize your contribution graph, allowing you to simulate coding activity for visual profiling:
-
-*   📂 **Location**: The script files are organized in the [activity-generator/](activity-generator) directory.
-*   🚀 **How it Works**: The script initializes a repository, creates automated changes to a document over time (within the last 365 days), and generates commits with randomized timestamps.
-*   📖 **Usage Instructions**: See the detailed guide inside the [activity-generator/README.md](activity-generator/README.md) to run it safely.
-
----
 
 <div align="center">
   <p>🚀 <em>Thank you for exploring my digital workspace. Let's build something remarkable!</em></p>
