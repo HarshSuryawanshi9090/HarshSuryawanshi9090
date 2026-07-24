@@ -1,16 +1,26 @@
-<div align="center">
-  <h1>👋 Hi, I'm Harsh Suryawanshi</h1>
-  <h3>⚡ Welcome to My Digital Laboratory! ⚡</h3>
-  <p>
-    <strong>Final Year B.Tech Student in Artificial Intelligence & Data Science</strong><br/>
-    <em>Full Stack Developer | AI/ML Engineer | Open Source Enthusiast</em>
-  </p>
+<table border="0" width="100%">
+  <tr>
+    <td width="160" align="center" valign="middle">
+      <img src="https://github.com/HarshSuryawanshi9090.png" width="130" style="border-radius: 50%; border: 3px solid #70a5fd;" alt="Harsh Suryawanshi Avatar" />
+    </td>
+    <td valign="middle">
+      <h1>👋 Hi, I'm Harsh Suryawanshi</h1>
+      <h3>⚡ Welcome to My Digital Laboratory! ⚡</h3>
+      <p>
+        <strong>🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science</strong><br/>
+        <em>💻 Full Stack Developer | AI/ML Engineer | Open Source Enthusiast</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <p>
-    <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:harshsuryawanshi85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://instagram.com/harshuuu_1828/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  </p>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/HarshSuryawanshi9090"><img src="https://img.shields.io/badge/GitHub-HarshSuryawanshi9090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/"><img src="https://img.shields.io/badge/LinkedIn-harsh--suryawanshi--a9a0b0276-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/harshuuu_1828/"><img src="https://img.shields.io/badge/Instagram-harshuuu__1828-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:harshsuryawanshi85@gmail.com"><img src="https://img.shields.io/badge/Email-harshsuryawanshi85-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
