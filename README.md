@@ -1,26 +1,17 @@
-<table border="0" width="100%">
-  <tr>
-    <td width="160" align="center" valign="middle">
-      <img src="https://github.com/HarshSuryawanshi9090.png" width="130" style="border-radius: 50%; border: 3px solid #70a5fd;" alt="Harsh Suryawanshi Avatar" />
-    </td>
-    <td valign="middle">
-      <h1>👋 Hi, I'm Harsh Suryawanshi</h1>
-      <h3>⚡ Welcome to My Digital Laboratory! ⚡</h3>
-      <p>
-        <strong>🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science</strong><br/>
-        <em>💻 Full Stack Developer | AI/ML Engineer | Open Source Enthusiast</em>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/HarshSuryawanshi9090" target="_blank"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/harshuuu_1828/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:harshsuryawanshi85@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <h1>👋 Hi, I'm Harsh Suryawanshi</h1>
+  <h3>⚡ Welcome to My Digital Laboratory! ⚡</h3>
+  <p>
+    <strong>🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science</strong><br/>
+    <em>💻 Full Stack Developer | AI/ML Engineer | Open Source Enthusiast</em>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+    <a href="https://github.com/HarshSuryawanshi9090" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
+    <a href="mailto:harshsuryawanshi85@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/></a>
+    <a href="https://instagram.com/harshuuu_1828/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/></a>
+  </p>
 </div>
 
 ---
