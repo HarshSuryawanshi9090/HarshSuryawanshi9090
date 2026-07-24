@@ -137,10 +137,10 @@ I am a passionate developer focused on the intersection of **Artificial Intellig
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=HarshSuryawanshi9090&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Harsh's GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=HarshSuryawanshi9090&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Harsh's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSuryawanshi9090&layout=compact&theme=tokyonight" alt="Harsh's Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshSuryawanshi9090&layout=compact&theme=tokyonight" alt="Harsh's Top Languages" />
       </td>
     </tr>
     <tr>
