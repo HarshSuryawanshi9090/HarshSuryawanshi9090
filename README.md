@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>👋 Hi, I'm Harsh Suryawanshi</h1>
   <h3>⚡ Welcome to My Digital Laboratory! ⚡</h3>
   <p>
     <strong>Final Year B.Tech Student in Artificial Intelligence & Data Science</strong><br/>
