@@ -17,10 +17,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/HarshSuryawanshi9090"><img src="https://img.shields.io/badge/GitHub-HarshSuryawanshi9090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/"><img src="https://img.shields.io/badge/LinkedIn-harsh--suryawanshi--a9a0b0276-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/harshuuu_1828/"><img src="https://img.shields.io/badge/Instagram-harshuuu__1828-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:harshsuryawanshi85@gmail.com"><img src="https://img.shields.io/badge/Email-harshsuryawanshi85-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/HarshSuryawanshi9090" target="_blank"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/harshuuu_1828/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:harshsuryawanshi85@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
