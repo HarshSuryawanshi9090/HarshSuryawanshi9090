@@ -61,8 +61,8 @@ def contribute(date):
     with open(os.path.join(os.getcwd(), 'contributions.txt'), 'a') as file:
         file.write(message(date) + '\n\n')
     run(['git', 'add', '.'])
-    run(['git', 'commit', '-m', '"%s"' % message(date),
-         '--date', date.strftime('"%Y-%m-%d %H:%M:%S"')])
+    run(['git', 'commit', '-m', message(date),
+         '--date', date.strftime('%Y-%m-%d %H:%M:%S')])
 
 
 def run(commands):

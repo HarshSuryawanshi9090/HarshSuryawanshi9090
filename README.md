@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+    <a href="https://linkedin.com/in/harsh-suryawanshi-a9a0b0276/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI%2BPHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4%3D&labelColor=0077B5" alt="LinkedIn"/></a>
     <a href="https://github.com/HarshSuryawanshi9090" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
     <a href="mailto:harshsuryawanshi85@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/></a>
     <a href="https://instagram.com/harshuuu_1828/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/></a>
@@ -71,61 +71,31 @@ I am a passionate developer focused on the intersection of **Artificial Intellig
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 PulseNet — AI Mental Health early warning</h4>
-      <p>Consent-based AI system detecting emotional distress in social media feeds before crisis points.</p>
+      <h4>🦎 AI Reptile Interactive Cursor — Procedural IK Engine</h4>
+      <p>Interactive HTML5 Canvas dashboard with a procedurally animated reptile driven by MediaPipe gesture tracking.</p>
       <ul>
-        <li><strong>Extension Scraper</strong>: Chrome Extension (Manifest V3) dynamically reads posts.</li>
-        <li><strong>Flask REST API</strong>: Processes scores on a 0-100 scale using custom NLP logic.</li>
-        <li><strong>Automatic Alerts</strong>: Sends real-time warning logs and alerts to configured guardians.</li>
+        <li><strong>Gesture Tracking</strong>: Resolves 21 hand landmarks to trigger motion, attack state, and rest mode.</li>
+        <li><strong>Procedural IK</strong>: Uses trigonometric inverse kinematics for dynamic spinal vertebrae and leg gait.</li>
+        <li><strong>Web Audio Synth</strong>: Programmatically synthesizes real-time sound effects with OscillatorNodes.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-Flask-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-V3-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQLite-DB-green?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛍️ FashionHub AI — Smart E-Commerce Platform</h4>
-      <p>Enterprise-grade storefront featuring a virtual trial room superimposer and forecasting analytics.</p>
-      <ul>
-        <li><strong>Virtual Fitting</strong>: Overlays canvas filters on customer images for fitting simulations.</li>
-        <li><strong>AI Microservices</strong>: FastAPI endpoint serving K-Means and demand forecasting.</li>
-        <li><strong>Voice Interface</strong>: Browser Web Speech API powers hands-free voice searches.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-Vite-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-Python-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-Compose-cyan?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 AI Tutor — Personalized Recommendation System</h4>
-      <p>Multi-modal system mapping customized study paths by evaluating student mastery metrics.</p>
-      <ul>
-        <li><strong>Student Clustering</strong>: Identifies student categories based on study history.</li>
-        <li><strong>Concept Analysis</strong>: Highlights weak concept boundaries with linear regressions.</li>
-        <li><strong>Hybrid Recommendation</strong>: Content-based and collaborative filters propose optimal materials.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-Streamlit-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas-NumPy-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔮 Doctor Strange AR — Mystic Arts Engine</h4>
-      <p>Immersive browser-based augmented reality magic engine utilizing real-time hand skeleton tracking.</p>
-      <ul>
-        <li><strong>MediaPipe Integration</strong>: Resolves 21 hand joints for gesture recognition.</li>
-        <li><strong>Particle Splines</strong>: Draws glowing Catmull-Rom trail splines following fingertips.</li>
-        <li><strong>Mandala Shield</strong>: Renders rotating sacred geometric circles and Elder Futhark runes.</li>
-      </ul>
-      <p>
+        <img src="https://img.shields.io/badge/MediaPipe-Hands-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/HTML5-Canvas_API-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/MediaPipe-Tracking-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vanilla_JS-ES6+-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Procedural_IK-JS-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎈 AI Balloon Pop Adventure Game — Computer Vision Gaming</h4>
+      <p>Real-time interactive CV game featuring hand tracking, dynamic balloon physics, and pop collision detection.</p>
+      <ul>
+        <li><strong>Hand Tracking</strong>: Uses MediaPipe & OpenCV to track fingertip and palm coordinates in real time.</li>
+        <li><strong>Physics & Collision</strong>: Simulates floating balloon dynamics, speed scaling, and instant pop detection.</li>
+        <li><strong>Gamification Engine</strong>: Features real-time scoring, combo multipliers, sound effects, and level progression.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-OpenCV-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/MediaPipe-Hands-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pygame_/_Canvas-GameEngine-green?style=flat-square" />
       </p>
     </td>
   </tr>
